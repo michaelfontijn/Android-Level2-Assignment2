@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="screen_title">Quiz instructions</string>
+    <string name="quiz_instructions">Swipe left for true, swipe right for false.</string>
+    <string name="click_answer_instructions">Click on the question for the answers.</string>
+</resources>
